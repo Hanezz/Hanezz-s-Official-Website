@@ -1,0 +1,129 @@
+*{
+    font-family: sans-serif;
+    background-color: rgb(39, 39, 39);
+}
+
+a:link{
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    color:white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 89, 255);
+}
+
+/*Home (Start)*/
+/*Header on Home applies to all headers in the project*/
+
+.maintext-h{
+    color: white;
+    font-size: 54px;
+    font-weight: bold;
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
+
+.link1-h{
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    left: 200px;
+    top: 125px;
+}
+
+.link2-h{
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    left: 325px;
+    top: 125px;
+}
+
+.link3-h{
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    left: 470px;
+    top: 125px;
+}
+
+.link4-h{
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    left: 595px;
+    top: 125px;
+}
+
+.button1{
+    color:white;
+    background-color: rgb(0, 89, 255);
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+    border-radius: 50px;
+    position: absolute;
+    left: 700px;
+    top: 125px;
+}
+
+.ver-h{
+    color:white;
+    font-size: 50px;
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+
+.about{
+    color:white;
+    font-size: 35px;
+    position: absolute;
+    top: 200px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.discord-user{
+    color:white;
+    font-weight: bold;
+}
+
+.free-websites{
+    color:white;
+    font-weight: bold;
+}
+
+.projects2{
+    color:white;
+    font-weight: bold;
+}
+
+.email{
+    color:white;
+    font-weight: bold;
+}
+
+/*Home (End)*/
+
+/*Projects (Start*/
+
+.embotic-website{
+    color:white;
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    left: 200px;
+    top: 225px;
+}
